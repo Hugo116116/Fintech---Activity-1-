@@ -21,7 +21,7 @@ While the peer-to-peer network creates great security. At this current time Bitc
 
 ### Comparisons 
  ---
-Bitcoin isn't the only digital currency disrupting traditional finance. There have been many attempted projects to replicate Bitcoin. In 2019 according to coinopsy there was already 1085 dead coins*. Therefore, founders of digital assets decided to create coins with different use bases that isn't aligned with Bitcoin's. This has subsequently built out the digital asset ecosystem and provided more infrastructure which intern has widened the market. For instance, non-fungible tokens have attracted a younger market. Although at this stage it seems Bitcoin will not be dethroned as the leading cryptocurrency as it currently has a market capitalization of $1,127,128,945,218 in comparison the total market capitalization excluding Bitcoin hovers around the $1.4 trillion. (Refer to figure 2&3).
+Bitcoin isn't the only digital currency disrupting traditional finance. There have been many attempted projects to replicate Bitcoin. In 2019 according to coinopsy there was already 1085 dead coins*. These coins share many similarities to Bitcoin’s framework including the process of mining block being peer to peer and transactions through the block chain. Bitcoin main competitor is Ethereum which has a market capitalization of 510 billion. Ethereum has more use cases in society with developers being able to use the block chain to create smart contracts and decentralised apps. These 2 digital assets are clear leaders in the asset class with BNB hovering around 100 billion market capitalization and Solana, Cardano and XRP all between the 65-50 billion market cap. These other digital assets have subsequently built out the digital asset ecosystem and provided more infrastructure which intern has widened the market. For instance, non-fungible tokens developed on Ethereum have attracted a younger market. Although at this stage it seems Bitcoin will not be dethroned as the leading cryptocurrency as it currently has a market capitalization of $1,127,128,945,218 in comparison the total market capitalization excluding Bitcoin hovers around the $1.14 trillion. (Refer to figure 2&3).
 
 ### Conclusion and recommendations 
 --- 
@@ -34,4 +34,23 @@ It's proposed that BTC hardforks to create more scalability as a network needs t
 [link to BTC price](https://coinmarketcap.com/currencies/bitcoin/)
 
 ---
+### Figure 1
+
 ![Figure 1](https://editorial.azureedge.net/miscelaneous/BTCUSD%20WEEKLY%2030%20NOV%2018-636791971125624714.PNG)
+
+
+### Bibliography 
+
+
+1.	The Bitcoin and Crypto Market Cycles: What You Need to Know 2018b, CryptoPotato.
+2.	Sharma, TK 2020, Blockchain & Role of P2P Network, Blockchain Council.
+3.	EBR, E 2020, Top 5 Advantages of Bitcoin over Fiat Currency, The European Business Review, viewed 17 November 2021, <https://www.europeanbusinessreview.com/top-5-advantages-of-bitcoin-over-fiat-currency/#:~:text=Low%20storage%20and%20transfer%20cost>.
+4.	Can Bitcoin Kill Central Banks? 2019, Investopedia.
+5.	Crypto vs Banking System - Innovation & Technology Blog 2019, ZIGURAT Innovation School - Transform the way you do business!
+6.	Bitcoin will never replace the dollar, claims CPA n.d., Information Age, viewed 17 November 2021, <https://ia.acs.org.au/article/2021/bitcoin-will-never-replace-the-dollar--claims-cpa.html>.
+7.	Frankenfield, J 2021, Bitcoin, Investopedia.
+8.	Crypto Total Market Cap Chart — TradingView 2019, TradingView, TradingView.
+9.	Bitpanda n.d., The problem of scalability in the Bitcoin network, www.bitpanda.com.
+10.	Munster, B 2020, Why Bitcoin is a superior store of value, Medium.
+11.	25 PayPal Statistics & Facts for 2021 2021, Balancing Everything, viewed 17 November 2021, <https://balancingeverything.com/paypal-statistics/>.
+
